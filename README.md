@@ -1,3 +1,8 @@
+<p align="center">
+    <a href="https://github.com/EngZakirHossain/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=EngZakirHossain&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 ## 📊 My Github Stats
 
   <img align="left"  src="https://github-readme-stats.vercel.app/api?username=EngZakirHossain&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
